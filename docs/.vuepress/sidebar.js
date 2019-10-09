@@ -8,18 +8,18 @@ module.exports = {
       ],
     },
     {
-      title: "Getting Started",
+      title: "Deployment and Configuration",
       children: [
-        "/getting-started/",
-        "/getting-started/configuration"
+        "/deploy/",
+        "/deploy/configuration",
+        "/deploy/heroku",
+        "/deploy/custom-instance"
       ]
     },
     {
-      title: "Deploying",
+      title: "Administration",
       children: [
-        "/deploy/",
-        "/deploy/"
-
+        "/administration/",
       ]
     },
   ]
