@@ -27,7 +27,7 @@ module.exports = {
   },
   ga: 'UA-108513187-1',
   themeConfig: {
-    repo: "https://github.com/weareasterisk/gavel",
+    repo: "https://github.com/weareasterisk/gavel-docs",
     editLinks: true,
     editLinkText: 'Edit this page',
     lastUpdated: 'Last updated',
