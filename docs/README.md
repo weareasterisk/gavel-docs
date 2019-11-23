@@ -13,7 +13,7 @@ This guide will also cover things like common errors and how to resolve them, ma
 
 ## Before we begin
 
-Using gavel at your event is cool and all but there are some prerequesites to it. You need access to the submission system your event is using, and the emails if the expo judges at your event. Alongside that, perhaps most importantly, you need a place to deploy gavel.
+Using gavel at your event is cool and all but there are some prerequesites to it. You need access to the submission system your event is using, and the emails of the expo judges at your event. Alongside that, perhaps most importantly, you need a place to deploy gavel.
 
 You may use the one-click deployment strategies available below
 
