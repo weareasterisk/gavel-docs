@@ -1,6 +1,6 @@
 # This pipeline is purely for gavel documentation
 
-image: node:10-alpine
+image: node:12-alpine
 
 stages:
   - build
