@@ -12,7 +12,6 @@ variables:
 build-docs:
   stage: build
   script:
-    - npm install -g yarn
     - yarn
     - yarn build
   cache:
