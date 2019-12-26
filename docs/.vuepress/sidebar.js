@@ -11,9 +11,9 @@ module.exports = {
       title: "Deployment and Configuration",
       children: [
         "/deploy/",
-        "/deploy/configuration",
         "/deploy/heroku",
-        "/deploy/custom-instance"
+        "/deploy/custom-instance",
+        "/deploy/configuration"
       ]
     },
     {
