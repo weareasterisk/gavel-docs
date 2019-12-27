@@ -7118,10 +7118,10 @@ vuepress-plugin-dehydrate@^1.0.3:
   dependencies:
     "@vuepress/shared-utils" "^1.0.2"
 
-vuepress-plugin-medium-zoom@^1.1.3:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-medium-zoom/-/vuepress-plugin-medium-zoom-1.1.3.tgz#45962596eeda64b0a0c2fe97e454dcbc3a25d8cb"
-  integrity sha512-7SA9AKE39Dp+jOA9mJ8bk4koEi6/wKZ1GJxXFUv3T19NsXBG8GqQQAUw87AKFHCdnyevfL96hzYRNsaw8mMOog==
+vuepress-plugin-medium-zoom@^1.1.8:
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-medium-zoom/-/vuepress-plugin-medium-zoom-1.1.8.tgz#bb1ea5cdd50efd218b385b5f5fe46c3e1d2d4ec1"
+  integrity sha512-G6s/kDw7obUqaTNhg94+wbuMYPLmPRS4jZ8voJPO/SHyKq/myzDdTL9OzYq3EMVz/P1pROYhN+jNCT7KpdaAZg==
   dependencies:
     medium-zoom "^1.0.4"
 
