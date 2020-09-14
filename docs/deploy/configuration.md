@@ -71,3 +71,7 @@ This is the API key that Gavel uses to authenticate the sendgrid service.
 #### SECRET_KEY
 
 The secret key is used to hash requests and CSRF tokens. This must be a long, randomly generated alphanumeric string to be effective.
+
+#### VIRTUAL_EVENT
+
+This defines whether your gavel instance is set up for judging a virtual event. Setting this to true produces embedded demo videos and long project description in gavel. Optimized for judging on a computer rather than mobile phone.
