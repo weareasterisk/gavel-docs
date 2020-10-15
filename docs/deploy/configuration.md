@@ -75,3 +75,31 @@ The secret key is used to hash requests and CSRF tokens. This must be a long, ra
 #### VIRTUAL_EVENT
 
 This defines whether your gavel instance is set up for judging a virtual event. Setting this to true produces embedded demo videos and long project description in gavel. Optimized for judging on a computer rather than mobile phone.
+
+**Properties for a "Virtual Event"**
+```
+CSV Format: Project Name, Description, Tagline, Video URL, Submission URL, Submission Website
+```
+
+| Property           | Description                                       |
+|--------------------|---------------------------------------------------|
+| Project Name       | self-explanatory                                  |
+| Description        | self-explanatory - lies above the buttons         |
+| Tagline            | text to be placed directly below the Project Name |
+| Video URL          | A YouTube link                                    |
+| Submission URL     | Link to the Devpost project                       |
+| Submission Website | A link to the final product (Heroku app, etc.)    |
+
+**Sample CSV Input**
+*(Note: put this onto a single line when copying)*
+```
+"Pied Piper","a powerful compression tool brewed in the mind of Richard Hendricks",
+"always blue! always blue!","https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+"https://devpost.com","https://google.com"
+```
+
+The last column "Submission Website" is optional and creates a greyed-out button if it does not exist.
+
+**The image below shows the output that would be rendered.**
+
+<img width="400" src="https://user-images.githubusercontent.com/4997589/96162727-e14b2f80-0ee6-11eb-8e6b-3ed5184a6198.png" border="1" />
