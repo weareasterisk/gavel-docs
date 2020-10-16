@@ -85,7 +85,7 @@ CSV Format: Project Name, Description, Tagline, Video URL, Submission URL, Submi
 |--------------------|---------------------------------------------------|
 | Project Name       | self-explanatory                                  |
 | Description        | self-explanatory - lies above the buttons         |
-| Tagline            | text to be placed directly below the Project Name |
+| Tagline            | A short, one sentence description for the project |
 | Video URL          | A video link (Youtube, Vimeo, etc.)               |
 | Submission URL     | Link to the Devpost project                       |
 | Submission Website | A link to the final product (Heroku app, etc.)    |
